@@ -1,0 +1,5 @@
+I have been conducting an analysis of the customer data provided, and I have made several interesting findings. First, I found that customers who had a Phone Service and Multiple Lines were less likely to churn than those who didn't. Additionally, customers who had tech support and online security were also less likely to churn. Finally, I found that customers who had a contract and paperless billing were more likely to stay with the company.
+
+Based on these findings, I suggest that the company focus on providing better phone service, multiple lines, tech support, and online security to customers. Additionally, offering contracts and paperless billing may help retain customers.
+
+I hope this information is helpful and look forward to discussing the findings further.
